@@ -1,0 +1,1 @@
+# AyushEquity-AI
