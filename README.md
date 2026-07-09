@@ -1,4 +1,4 @@
-```markdown
+
 #  AyushEquity AI
 ### AI-Powered Healthcare Inclusion & Fraud Detection System for Ayushman Bharat (PM-JAY)
 
@@ -259,7 +259,3 @@ Detects:
 
 ---
 
-```
-```
-
----
