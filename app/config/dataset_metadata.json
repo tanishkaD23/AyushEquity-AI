@@ -1,0 +1,18 @@
+{
+  "beneficiaries": {
+    "records": 10000,
+    "primary_key": "Beneficiary_ID"
+  },
+  "hospitals": {
+    "records": 500,
+    "primary_key": "Hospital_ID"
+  },
+  "claims": {
+    "records": 50000,
+    "primary_key": "Claim_ID"
+  },
+  "blockchain_transactions": {
+    "records": 100,
+    "primary_key": "Transaction_ID"
+  }
+}

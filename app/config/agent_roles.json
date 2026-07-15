@@ -1,0 +1,7 @@
+{
+  "EligibilityAgent": "Find eligible beneficiaries",
+  "FraudAgent": "Analyze claim fraud",
+  "DocumentAgent": "Verify uploaded documents",
+  "AuditAgent": "Generate audit reports",
+  "CitizenAssistant": "Answer PM-JAY queries"
+}

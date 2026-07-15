@@ -1,0 +1,501 @@
+Hospital_ID,Hospital_Name,State,District,Latitude,Longitude,Hospital_Type,Beds,Doctors,PMJAY_Empanelled,Rating,Previous_Fraud
+HOS0001,Prime Gwalior Multi Speciality Hospital,Madhya Pradesh,Gwalior,15.101864,72.0466,Government,578,21,Yes,2.6,No
+HOS0002,National Prayagraj Hospital,Uttar Pradesh,Prayagraj,24.276107,88.764569,Private,449,38,Yes,3.2,No
+HOS0003,Aarogya Varanasi Multi Speciality Hospital,Uttar Pradesh,Varanasi,12.508905,95.759179,Government,114,58,Yes,4.6,No
+HOS0004,Jan Kalyan Jabalpur Hospital,Madhya Pradesh,Jabalpur,36.220357,78.977497,Private,390,83,Yes,2.7,No
+HOS0005,Lotus Mumbai Medical Centre,Maharashtra,Mumbai,33.128026,79.023661,Private,393,30,Yes,3.0,No
+HOS0006,District Ujjain Medical Centre,Madhya Pradesh,Ujjain,23.490056,75.099517,Private,296,91,Yes,3.0,No
+HOS0007,Lotus Bhopal Hospital,Madhya Pradesh,Bhopal,31.346328,79.633779,Government,600,101,Yes,4.1,No
+HOS0008,Apollo Jodhpur Medical Centre,Rajasthan,Jodhpur,15.152198,84.279676,Government,458,84,Yes,3.0,No
+HOS0009,LifeCare Vadodara Hospital,Gujarat,Vadodara,32.971984,72.432398,Government,452,86,Yes,3.5,No
+HOS0010,Jan Kalyan Rajkot Hospital,Gujarat,Rajkot,27.728219,71.322001,Private,293,108,Yes,2.8,No
+HOS0011,Prime Jaipur Multi Speciality Hospital,Rajasthan,Jaipur,36.184755,90.096904,Private,128,90,Yes,4.1,No
+HOS0012,Fortis Agra Medical Centre,Uttar Pradesh,Agra,23.641992,90.580168,Private,20,86,Yes,2.5,No
+HOS0013,City Care Pune Medical Centre,Maharashtra,Pune,33.462278,95.461534,Government,517,114,Yes,4.4,No
+HOS0014,Jan Kalyan Varanasi Medical Centre,Uttar Pradesh,Varanasi,15.686642,93.300558,Private,236,79,Yes,4.2,No
+HOS0015,Sanjeevani Kota Care Hospital,Rajasthan,Kota,21.093098,75.189263,Government,41,85,Yes,4.0,Yes
+HOS0016,LifeCare Bhopal Hospital,Madhya Pradesh,Bhopal,32.929427,70.054863,Government,517,37,Yes,4.3,No
+HOS0017,Sunrise Vadodara Health Center,Gujarat,Vadodara,31.417413,73.521888,Government,461,55,Yes,3.7,No
+HOS0018,MediPlus Gwalior Multi Speciality Hospital,Madhya Pradesh,Gwalior,31.217183,71.168802,Government,569,67,Yes,3.0,No
+HOS0019,Fortis Jabalpur Care Hospital,Madhya Pradesh,Jabalpur,10.839353,86.912202,Private,35,21,No,4.6,No
+HOS0020,Sunrise Ajmer Health Center,Rajasthan,Ajmer,34.170843,72.774477,Government,419,43,No,4.5,No
+HOS0021,Shree Vadodara Medical Centre,Gujarat,Vadodara,16.604527,96.092572,Private,575,17,Yes,2.6,No
+HOS0022,Shree Bhavnagar Hospital,Gujarat,Bhavnagar,35.862588,70.323232,Government,89,96,No,3.5,No
+HOS0023,National Surat Care Hospital,Gujarat,Surat,9.152508,70.377519,Private,598,76,Yes,3.2,No
+HOS0024,Apollo Pune Health Center,Maharashtra,Pune,11.79547,86.719523,Private,94,11,Yes,5.0,No
+HOS0025,Sunrise Ujjain Care Hospital,Madhya Pradesh,Ujjain,15.690812,95.064522,Private,270,57,Yes,3.6,No
+HOS0026,Fortis Aurangabad Care Hospital,Maharashtra,Aurangabad,8.22687,91.69602,Government,126,27,Yes,4.7,No
+HOS0027,Apollo Agra Care Hospital,Uttar Pradesh,Agra,14.10826,77.943528,Private,290,74,Yes,4.8,No
+HOS0028,Lotus Jabalpur Multi Speciality Hospital,Madhya Pradesh,Jabalpur,9.278516,77.67314,Government,288,30,Yes,3.9,No
+HOS0029,LifeCare Gwalior Medical Centre,Madhya Pradesh,Gwalior,23.822118,92.203256,Private,171,65,Yes,3.3,No
+HOS0030,Sunrise Indore Medical Centre,Madhya Pradesh,Indore,27.341069,78.25668,Private,436,89,Yes,4.8,No
+HOS0031,Health First Kanpur Health Center,Uttar Pradesh,Kanpur,8.718804,89.36037,Government,441,112,Yes,4.3,No
+HOS0032,MediPlus Lucknow Hospital,Uttar Pradesh,Lucknow,32.899204,74.450578,Private,491,54,Yes,4.5,No
+HOS0033,MediPlus Bhopal Multi Speciality Hospital,Madhya Pradesh,Bhopal,16.079489,70.013202,Private,379,92,Yes,4.2,No
+HOS0034,LifeCare Mumbai Multi Speciality Hospital,Maharashtra,Mumbai,13.178467,95.913495,Government,131,86,Yes,4.3,No
+HOS0035,LifeCare Bhavnagar Health Center,Gujarat,Bhavnagar,34.085637,73.512284,Government,466,10,Yes,4.5,No
+HOS0036,MediPlus Agra Hospital,Uttar Pradesh,Agra,35.51736,94.702355,Private,147,102,No,3.8,No
+HOS0037,Prime Nashik Multi Speciality Hospital,Maharashtra,Nashik,24.077962,73.563363,Private,408,96,Yes,2.9,No
+HOS0038,Lotus Udaipur Hospital,Rajasthan,Udaipur,16.812374,74.095298,Private,349,69,Yes,4.2,No
+HOS0039,Apollo Lucknow Care Hospital,Uttar Pradesh,Lucknow,27.251761,85.958563,Government,260,96,Yes,4.5,No
+HOS0040,Sanjeevani Bhopal Care Hospital,Madhya Pradesh,Bhopal,32.642393,70.112019,Private,219,101,Yes,3.7,No
+HOS0041,Fortis Gwalior Health Center,Madhya Pradesh,Gwalior,14.346393,91.319186,Private,495,16,Yes,4.8,No
+HOS0042,District Varanasi Care Hospital,Uttar Pradesh,Varanasi,36.648881,85.268117,Private,473,88,Yes,4.7,No
+HOS0043,Health First Vadodara Medical Centre,Gujarat,Vadodara,29.566008,81.765559,Government,273,117,Yes,4.4,No
+HOS0044,Sanjeevani Agra Hospital,Uttar Pradesh,Agra,28.692801,74.800314,Government,573,20,Yes,3.1,No
+HOS0045,MediPlus Lucknow Health Center,Uttar Pradesh,Lucknow,17.59556,81.511805,Government,450,59,No,4.0,No
+HOS0046,Sanjeevani Vadodara Hospital,Gujarat,Vadodara,35.339508,76.659767,Government,449,78,Yes,3.9,No
+HOS0047,Sunrise Varanasi Multi Speciality Hospital,Uttar Pradesh,Varanasi,20.639243,68.84172,Government,434,102,Yes,3.7,No
+HOS0048,City Care Bhavnagar Health Center,Gujarat,Bhavnagar,25.16489,87.226993,Government,458,27,No,3.0,No
+HOS0049,Sanjeevani Pune Multi Speciality Hospital,Maharashtra,Pune,17.787516,93.50956,Government,451,42,Yes,3.7,No
+HOS0050,Sunrise Indore Hospital,Madhya Pradesh,Indore,30.655758,86.900885,Private,273,35,Yes,4.1,No
+HOS0051,National Jaipur Medical Centre,Rajasthan,Jaipur,21.485986,75.431067,Government,137,109,Yes,4.9,No
+HOS0052,National Indore Health Center,Madhya Pradesh,Indore,19.502979,88.735426,Government,268,23,Yes,3.3,No
+HOS0053,Fortis Ujjain Hospital,Madhya Pradesh,Ujjain,18.068909,80.422962,Government,538,92,Yes,4.6,No
+HOS0054,Aarogya Jabalpur Health Center,Madhya Pradesh,Jabalpur,28.511951,80.629127,Private,296,88,Yes,3.8,No
+HOS0055,Apollo Udaipur Multi Speciality Hospital,Rajasthan,Udaipur,32.699682,92.0912,Government,481,41,Yes,3.9,No
+HOS0056,Sanjeevani Mumbai Multi Speciality Hospital,Maharashtra,Mumbai,13.273356,74.151476,Private,368,45,No,4.3,No
+HOS0057,Sunrise Ujjain Hospital,Madhya Pradesh,Ujjain,14.999325,79.786416,Private,266,98,Yes,4.3,No
+HOS0058,Apollo Gwalior Medical Centre,Madhya Pradesh,Gwalior,19.727633,75.05585,Private,397,70,Yes,3.4,No
+HOS0059,Aarogya Rajkot Health Center,Gujarat,Rajkot,15.856576,75.290707,Government,217,50,Yes,3.8,No
+HOS0060,Sunrise Kanpur Health Center,Uttar Pradesh,Kanpur,16.018489,85.09802,Private,309,22,Yes,3.2,No
+HOS0061,Prime Mumbai Care Hospital,Maharashtra,Mumbai,11.670906,69.319955,Government,319,99,No,4.1,No
+HOS0062,National Gwalior Multi Speciality Hospital,Madhya Pradesh,Gwalior,21.612511,80.773595,Government,72,42,No,3.7,No
+HOS0063,LifeCare Ajmer Care Hospital,Rajasthan,Ajmer,26.253926,69.554663,Government,596,48,Yes,3.1,No
+HOS0064,National Udaipur Care Hospital,Rajasthan,Udaipur,14.544927,83.154604,Private,473,48,No,5.0,No
+HOS0065,National Ahmedabad Hospital,Gujarat,Ahmedabad,35.480116,74.025849,Government,103,30,Yes,3.9,No
+HOS0066,Prime Ajmer Care Hospital,Rajasthan,Ajmer,21.627462,68.946556,Government,309,99,No,2.7,No
+HOS0067,District Aurangabad Medical Centre,Maharashtra,Aurangabad,20.32903,83.792309,Private,292,115,Yes,2.6,No
+HOS0068,Health First Bhavnagar Multi Speciality Hospital,Gujarat,Bhavnagar,20.73545,81.592241,Government,432,44,Yes,3.7,No
+HOS0069,Prime Jabalpur Multi Speciality Hospital,Madhya Pradesh,Jabalpur,25.507696,68.750082,Government,41,107,Yes,3.2,Yes
+HOS0070,Jan Kalyan Varanasi Health Center,Uttar Pradesh,Varanasi,34.566111,73.263185,Private,523,21,Yes,3.5,No
+HOS0071,Aarogya Bhopal Health Center,Madhya Pradesh,Bhopal,28.116537,76.358316,Private,583,14,Yes,3.3,No
+HOS0072,Lotus Udaipur Hospital,Rajasthan,Udaipur,27.072151,83.735214,Private,212,76,Yes,4.4,No
+HOS0073,Apollo Bhopal Care Hospital,Madhya Pradesh,Bhopal,11.799384,76.352845,Private,516,25,Yes,4.1,No
+HOS0074,Jan Kalyan Agra Hospital,Uttar Pradesh,Agra,24.015291,70.703067,Private,136,69,No,4.1,No
+HOS0075,Prime Aurangabad Multi Speciality Hospital,Maharashtra,Aurangabad,20.04922,81.992488,Private,487,80,Yes,3.0,No
+HOS0076,Apollo Lucknow Health Center,Uttar Pradesh,Lucknow,17.856382,90.843805,Government,22,46,Yes,4.6,No
+HOS0077,Sanjeevani Jodhpur Care Hospital,Rajasthan,Jodhpur,22.0459,77.640759,Private,406,68,No,4.7,No
+HOS0078,MediPlus Prayagraj Medical Centre,Uttar Pradesh,Prayagraj,32.824376,79.912478,Government,504,100,No,3.5,No
+HOS0079,City Care Varanasi Medical Centre,Uttar Pradesh,Varanasi,22.566443,85.115232,Private,470,22,Yes,3.6,No
+HOS0080,LifeCare Jodhpur Health Center,Rajasthan,Jodhpur,30.664233,75.685661,Private,427,93,Yes,3.3,No
+HOS0081,Aarogya Vadodara Health Center,Gujarat,Vadodara,33.299108,69.041074,Government,314,39,Yes,3.6,No
+HOS0082,Shree Jabalpur Multi Speciality Hospital,Madhya Pradesh,Jabalpur,34.199298,69.333738,Private,320,55,Yes,2.9,No
+HOS0083,Shree Surat Medical Centre,Gujarat,Surat,10.290082,93.254348,Private,266,73,No,2.9,No
+HOS0084,Apollo Nashik Hospital,Maharashtra,Nashik,34.068347,81.492344,Government,579,30,Yes,4.9,No
+HOS0085,Prime Nashik Multi Speciality Hospital,Maharashtra,Nashik,21.248239,76.761528,Private,514,23,Yes,3.9,No
+HOS0086,Lotus Mumbai Health Center,Maharashtra,Mumbai,15.959931,84.411941,Private,70,87,Yes,4.6,No
+HOS0087,Fortis Prayagraj Multi Speciality Hospital,Uttar Pradesh,Prayagraj,14.351132,73.513828,Government,160,90,Yes,4.1,Yes
+HOS0088,National Jaipur Multi Speciality Hospital,Rajasthan,Jaipur,29.238433,70.613868,Government,445,32,Yes,4.5,No
+HOS0089,Jan Kalyan Aurangabad Multi Speciality Hospital,Maharashtra,Aurangabad,32.083706,75.452132,Private,513,113,Yes,4.7,No
+HOS0090,Shree Jaipur Medical Centre,Rajasthan,Jaipur,32.944077,89.002285,Private,590,56,Yes,3.5,No
+HOS0091,Aarogya Jabalpur Multi Speciality Hospital,Madhya Pradesh,Jabalpur,24.952243,91.850102,Private,130,96,Yes,2.6,No
+HOS0092,Health First Rajkot Care Hospital,Gujarat,Rajkot,14.419649,69.833294,Private,329,93,Yes,2.8,No
+HOS0093,LifeCare Nashik Hospital,Maharashtra,Nashik,14.809201,83.588852,Government,399,95,No,4.2,No
+HOS0094,Health First Surat Health Center,Gujarat,Surat,26.992735,92.177099,Private,306,14,Yes,3.0,No
+HOS0095,LifeCare Agra Multi Speciality Hospital,Uttar Pradesh,Agra,23.78951,96.357433,Government,427,45,Yes,2.8,No
+HOS0096,District Jaipur Medical Centre,Rajasthan,Jaipur,26.60943,85.317233,Government,361,41,No,4.5,No
+HOS0097,National Surat Medical Centre,Gujarat,Surat,31.578536,74.756962,Private,22,45,No,2.9,No
+HOS0098,LifeCare Pune Hospital,Maharashtra,Pune,11.822294,78.389026,Private,351,12,Yes,2.6,No
+HOS0099,Prime Ahmedabad Hospital,Gujarat,Ahmedabad,21.811133,90.562494,Private,131,67,Yes,4.9,Yes
+HOS0100,Sanjeevani Rajkot Hospital,Gujarat,Rajkot,9.763937,81.890475,Private,130,72,Yes,3.6,No
+HOS0101,Shree Aurangabad Hospital,Maharashtra,Aurangabad,11.659556,86.105207,Private,352,58,No,3.8,No
+HOS0102,LifeCare Vadodara Hospital,Gujarat,Vadodara,32.730989,86.876583,Private,240,65,Yes,3.1,No
+HOS0103,MediPlus Ajmer Hospital,Rajasthan,Ajmer,17.063902,77.063184,Government,176,97,No,2.7,No
+HOS0104,LifeCare Jabalpur Multi Speciality Hospital,Madhya Pradesh,Jabalpur,31.541309,84.134751,Private,595,81,Yes,2.8,No
+HOS0105,Apollo Jaipur Care Hospital,Rajasthan,Jaipur,17.061018,71.004416,Private,178,94,Yes,4.6,No
+HOS0106,LifeCare Rajkot Multi Speciality Hospital,Gujarat,Rajkot,24.6489,91.40942,Private,590,13,Yes,4.1,No
+HOS0107,Apollo Bhopal Multi Speciality Hospital,Madhya Pradesh,Bhopal,34.724588,78.179679,Government,166,82,Yes,2.7,No
+HOS0108,Prime Gwalior Care Hospital,Madhya Pradesh,Gwalior,14.238854,80.175142,Government,398,49,Yes,4.4,No
+HOS0109,Shree Gwalior Medical Centre,Madhya Pradesh,Gwalior,29.87864,69.443112,Government,473,94,Yes,4.0,No
+HOS0110,LifeCare Prayagraj Multi Speciality Hospital,Uttar Pradesh,Prayagraj,20.467495,76.214148,Private,518,77,Yes,2.6,No
+HOS0111,City Care Ahmedabad Medical Centre,Gujarat,Ahmedabad,16.741161,74.125785,Government,281,47,Yes,2.5,No
+HOS0112,MediPlus Kanpur Care Hospital,Uttar Pradesh,Kanpur,28.406467,82.507608,Private,382,19,Yes,4.4,No
+HOS0113,Lotus Jaipur Multi Speciality Hospital,Rajasthan,Jaipur,24.697016,84.628591,Private,447,47,Yes,2.6,No
+HOS0114,Lotus Vadodara Multi Speciality Hospital,Gujarat,Vadodara,10.555767,92.490046,Government,430,77,Yes,4.7,No
+HOS0115,Fortis Agra Medical Centre,Uttar Pradesh,Agra,10.215002,86.363515,Private,218,109,Yes,4.3,No
+HOS0116,LifeCare Kanpur Medical Centre,Uttar Pradesh,Kanpur,15.423078,73.031472,Government,97,32,No,4.1,No
+HOS0117,Sanjeevani Bhavnagar Care Hospital,Gujarat,Bhavnagar,26.646763,96.609426,Government,343,29,Yes,3.7,No
+HOS0118,City Care Aurangabad Multi Speciality Hospital,Maharashtra,Aurangabad,22.71277,77.001828,Private,78,57,Yes,2.7,No
+HOS0119,National Ujjain Care Hospital,Madhya Pradesh,Ujjain,19.149992,84.829553,Private,62,67,No,3.9,No
+HOS0120,Jan Kalyan Vadodara Medical Centre,Gujarat,Vadodara,35.773948,81.06517,Private,371,101,Yes,4.1,Yes
+HOS0121,Jan Kalyan Ajmer Care Hospital,Rajasthan,Ajmer,25.684357,78.553041,Private,416,62,Yes,4.2,Yes
+HOS0122,Aarogya Mumbai Hospital,Maharashtra,Mumbai,24.180933,79.210362,Government,173,52,Yes,4.2,No
+HOS0123,Shree Nashik Care Hospital,Maharashtra,Nashik,28.556186,70.456851,Private,356,114,Yes,4.3,No
+HOS0124,District Ahmedabad Health Center,Gujarat,Ahmedabad,22.746166,68.528686,Government,239,53,No,3.7,No
+HOS0125,LifeCare Kanpur Multi Speciality Hospital,Uttar Pradesh,Kanpur,32.488423,70.933082,Private,559,14,Yes,4.7,No
+HOS0126,Shree Vadodara Medical Centre,Gujarat,Vadodara,13.244533,88.092524,Private,189,102,Yes,3.5,No
+HOS0127,National Varanasi Multi Speciality Hospital,Uttar Pradesh,Varanasi,29.819344,90.73021,Government,264,49,No,4.5,No
+HOS0128,District Agra Care Hospital,Uttar Pradesh,Agra,36.548754,81.388719,Government,411,74,Yes,4.9,No
+HOS0129,Lotus Surat Multi Speciality Hospital,Gujarat,Surat,9.513214,81.937129,Government,125,101,Yes,4.6,No
+HOS0130,Sanjeevani Agra Care Hospital,Uttar Pradesh,Agra,12.273111,80.686704,Private,247,114,Yes,3.4,Yes
+HOS0131,Jan Kalyan Jabalpur Multi Speciality Hospital,Madhya Pradesh,Jabalpur,14.837564,96.841235,Government,48,50,No,4.6,No
+HOS0132,City Care Kanpur Multi Speciality Hospital,Uttar Pradesh,Kanpur,34.604489,81.701193,Private,500,67,Yes,4.8,Yes
+HOS0133,Jan Kalyan Kanpur Care Hospital,Uttar Pradesh,Kanpur,23.305374,71.224419,Government,328,25,Yes,3.5,No
+HOS0134,LifeCare Jaipur Health Center,Rajasthan,Jaipur,25.305432,68.476625,Private,267,101,Yes,3.6,No
+HOS0135,MediPlus Prayagraj Medical Centre,Uttar Pradesh,Prayagraj,27.266768,70.482805,Private,89,77,Yes,4.5,No
+HOS0136,Lotus Jabalpur Health Center,Madhya Pradesh,Jabalpur,9.262498,79.219558,Government,36,55,Yes,3.4,No
+HOS0137,Prime Ujjain Multi Speciality Hospital,Madhya Pradesh,Ujjain,11.868878,78.216672,Government,199,116,Yes,3.7,No
+HOS0138,LifeCare Kanpur Health Center,Uttar Pradesh,Kanpur,9.07253,73.846139,Private,62,50,No,3.8,No
+HOS0139,Apollo Vadodara Hospital,Gujarat,Vadodara,29.845437,73.541999,Government,68,120,Yes,3.2,No
+HOS0140,Prime Ajmer Health Center,Rajasthan,Ajmer,33.944487,79.212698,Private,528,98,Yes,4.8,No
+HOS0141,LifeCare Jabalpur Health Center,Madhya Pradesh,Jabalpur,25.471146,91.847897,Private,348,23,Yes,4.2,No
+HOS0142,Shree Vadodara Health Center,Gujarat,Vadodara,18.194863,69.2283,Private,381,88,No,3.2,No
+HOS0143,District Gwalior Health Center,Madhya Pradesh,Gwalior,18.536023,91.231783,Private,51,28,Yes,4.2,No
+HOS0144,Sunrise Lucknow Multi Speciality Hospital,Uttar Pradesh,Lucknow,18.502367,95.534546,Government,177,96,Yes,3.4,No
+HOS0145,Shree Ujjain Care Hospital,Madhya Pradesh,Ujjain,18.641549,77.117178,Government,136,13,Yes,3.7,No
+HOS0146,Apollo Ahmedabad Multi Speciality Hospital,Gujarat,Ahmedabad,28.417097,74.222542,Private,522,35,Yes,4.6,No
+HOS0147,Fortis Jaipur Multi Speciality Hospital,Rajasthan,Jaipur,27.367354,88.576674,Private,317,48,No,4.3,No
+HOS0148,Jan Kalyan Agra Medical Centre,Uttar Pradesh,Agra,11.519511,73.828431,Government,525,13,Yes,3.9,No
+HOS0149,National Surat Hospital,Gujarat,Surat,9.906695,79.546639,Private,510,77,Yes,3.5,No
+HOS0150,District Agra Hospital,Uttar Pradesh,Agra,21.04926,87.723161,Government,584,91,Yes,4.4,No
+HOS0151,Lotus Ahmedabad Hospital,Gujarat,Ahmedabad,23.024962,76.819612,Government,250,54,No,3.8,No
+HOS0152,Sunrise Indore Care Hospital,Madhya Pradesh,Indore,15.95908,86.125648,Private,115,74,Yes,4.0,No
+HOS0153,Prime Prayagraj Care Hospital,Uttar Pradesh,Prayagraj,17.790968,94.793962,Government,49,20,Yes,4.1,No
+HOS0154,MediPlus Prayagraj Care Hospital,Uttar Pradesh,Prayagraj,26.530745,82.443104,Private,316,92,No,3.7,No
+HOS0155,Sanjeevani Kota Hospital,Rajasthan,Kota,27.969794,72.584333,Private,495,36,Yes,2.9,No
+HOS0156,MediPlus Nagpur Medical Centre,Maharashtra,Nagpur,30.059285,82.934424,Government,267,69,Yes,3.6,No
+HOS0157,MediPlus Indore Care Hospital,Madhya Pradesh,Indore,20.125908,95.91789,Private,355,83,Yes,3.0,No
+HOS0158,Sanjeevani Vadodara Multi Speciality Hospital,Gujarat,Vadodara,22.423738,70.611424,Government,488,40,Yes,3.4,Yes
+HOS0159,Health First Udaipur Health Center,Rajasthan,Udaipur,16.286703,68.237145,Government,157,43,Yes,4.4,No
+HOS0160,National Jaipur Care Hospital,Rajasthan,Jaipur,13.645004,84.043465,Government,536,67,Yes,3.2,No
+HOS0161,Shree Ahmedabad Hospital,Gujarat,Ahmedabad,19.423208,91.05202,Government,394,106,Yes,4.0,No
+HOS0162,City Care Gwalior Medical Centre,Madhya Pradesh,Gwalior,28.694164,91.31501,Private,172,87,No,2.8,No
+HOS0163,MediPlus Pune Care Hospital,Maharashtra,Pune,29.440261,76.677796,Government,541,78,Yes,3.9,No
+HOS0164,Aarogya Indore Hospital,Madhya Pradesh,Indore,36.417043,84.927362,Private,47,86,Yes,4.9,No
+HOS0165,Sunrise Bhavnagar Hospital,Gujarat,Bhavnagar,24.922175,72.94485,Private,409,28,Yes,3.1,No
+HOS0166,City Care Bhopal Health Center,Madhya Pradesh,Bhopal,17.097082,72.391506,Private,440,74,Yes,4.8,No
+HOS0167,Jan Kalyan Bhopal Medical Centre,Madhya Pradesh,Bhopal,24.265716,96.945563,Private,405,50,No,3.6,No
+HOS0168,District Rajkot Multi Speciality Hospital,Gujarat,Rajkot,25.692221,73.575661,Government,591,48,Yes,4.9,No
+HOS0169,Prime Pune Health Center,Maharashtra,Pune,17.194182,78.115292,Private,300,46,Yes,4.2,No
+HOS0170,Fortis Kota Medical Centre,Rajasthan,Kota,16.423127,76.34128,Private,374,66,Yes,4.4,No
+HOS0171,Health First Rajkot Care Hospital,Gujarat,Rajkot,28.188968,71.980916,Private,265,41,Yes,4.8,No
+HOS0172,LifeCare Lucknow Health Center,Uttar Pradesh,Lucknow,17.578515,81.699713,Private,160,10,No,4.9,No
+HOS0173,District Ajmer Medical Centre,Rajasthan,Ajmer,29.921421,76.330106,Government,80,108,Yes,3.9,No
+HOS0174,MediPlus Bhopal Medical Centre,Madhya Pradesh,Bhopal,35.083756,69.053856,Private,527,33,No,4.9,No
+HOS0175,Apollo Gwalior Care Hospital,Madhya Pradesh,Gwalior,25.480706,94.925191,Government,485,92,Yes,3.7,No
+HOS0176,Apollo Vadodara Medical Centre,Gujarat,Vadodara,31.455602,77.589839,Private,283,101,Yes,4.3,No
+HOS0177,Shree Surat Care Hospital,Gujarat,Surat,32.828249,94.01424,Private,547,51,Yes,4.2,No
+HOS0178,Aarogya Varanasi Medical Centre,Uttar Pradesh,Varanasi,8.198073,79.123657,Private,293,52,Yes,4.3,Yes
+HOS0179,City Care Pune Hospital,Maharashtra,Pune,21.496455,72.631788,Private,338,98,Yes,4.8,No
+HOS0180,Sunrise Surat Medical Centre,Gujarat,Surat,21.867275,81.194382,Private,402,63,Yes,4.8,No
+HOS0181,District Kanpur Care Hospital,Uttar Pradesh,Kanpur,33.320917,70.374239,Private,390,19,No,2.8,No
+HOS0182,National Surat Care Hospital,Gujarat,Surat,12.345719,77.515411,Private,139,97,Yes,4.0,No
+HOS0183,Fortis Vadodara Hospital,Gujarat,Vadodara,21.149537,82.884187,Private,79,81,Yes,4.5,No
+HOS0184,Lotus Kota Hospital,Rajasthan,Kota,29.62833,84.771027,Government,372,99,Yes,5.0,No
+HOS0185,City Care Jabalpur Multi Speciality Hospital,Madhya Pradesh,Jabalpur,19.857141,90.30019,Private,450,57,No,3.5,No
+HOS0186,LifeCare Ajmer Care Hospital,Rajasthan,Ajmer,11.856704,92.948311,Government,570,60,Yes,4.3,No
+HOS0187,Apollo Gwalior Health Center,Madhya Pradesh,Gwalior,27.531496,83.788915,Private,255,41,Yes,2.9,No
+HOS0188,Fortis Gwalior Health Center,Madhya Pradesh,Gwalior,25.832773,95.1509,Private,266,36,Yes,4.0,No
+HOS0189,Prime Bhopal Hospital,Madhya Pradesh,Bhopal,19.665695,74.795839,Government,77,27,Yes,3.2,No
+HOS0190,National Rajkot Care Hospital,Gujarat,Rajkot,30.403608,91.733092,Government,166,94,Yes,3.5,No
+HOS0191,Health First Bhavnagar Medical Centre,Gujarat,Bhavnagar,26.153801,80.388817,Private,372,92,Yes,4.5,No
+HOS0192,Shree Ajmer Multi Speciality Hospital,Rajasthan,Ajmer,18.917345,89.878067,Private,250,48,No,2.9,No
+HOS0193,MediPlus Ujjain Health Center,Madhya Pradesh,Ujjain,24.161316,71.88869,Government,228,52,Yes,4.8,No
+HOS0194,Prime Ujjain Medical Centre,Madhya Pradesh,Ujjain,9.494562,78.937871,Private,60,19,Yes,4.4,No
+HOS0195,Sanjeevani Surat Medical Centre,Gujarat,Surat,33.214742,77.655965,Private,35,37,No,4.9,No
+HOS0196,Prime Jodhpur Care Hospital,Rajasthan,Jodhpur,28.409289,79.50233,Government,349,109,Yes,3.7,No
+HOS0197,Aarogya Nagpur Care Hospital,Maharashtra,Nagpur,33.601547,81.514118,Private,500,107,Yes,4.8,No
+HOS0198,National Jaipur Medical Centre,Rajasthan,Jaipur,29.496319,68.470377,Private,447,47,Yes,3.3,No
+HOS0199,Jan Kalyan Varanasi Multi Speciality Hospital,Uttar Pradesh,Varanasi,15.462476,91.826166,Private,522,68,Yes,4.5,No
+HOS0200,Shree Vadodara Care Hospital,Gujarat,Vadodara,36.719383,95.75987,Private,96,114,Yes,4.4,No
+HOS0201,Prime Lucknow Medical Centre,Uttar Pradesh,Lucknow,8.265102,82.666255,Government,514,94,Yes,2.5,No
+HOS0202,Jan Kalyan Gwalior Multi Speciality Hospital,Madhya Pradesh,Gwalior,23.536405,76.313968,Private,460,113,No,2.9,No
+HOS0203,Sunrise Surat Medical Centre,Gujarat,Surat,25.973644,75.320128,Government,426,20,Yes,3.5,No
+HOS0204,District Agra Hospital,Uttar Pradesh,Agra,26.958336,92.888356,Private,115,61,Yes,3.9,Yes
+HOS0205,LifeCare Bhopal Health Center,Madhya Pradesh,Bhopal,32.514564,86.70231,Government,117,77,No,3.1,No
+HOS0206,Apollo Vadodara Hospital,Gujarat,Vadodara,34.800619,87.848434,Government,576,82,Yes,2.9,No
+HOS0207,National Bhopal Medical Centre,Madhya Pradesh,Bhopal,29.81538,88.668631,Government,98,48,Yes,3.1,No
+HOS0208,Aarogya Udaipur Health Center,Rajasthan,Udaipur,29.912669,72.058567,Private,100,74,Yes,3.4,No
+HOS0209,Aarogya Lucknow Care Hospital,Uttar Pradesh,Lucknow,30.301164,95.690894,Government,354,13,Yes,4.5,No
+HOS0210,Jan Kalyan Agra Health Center,Uttar Pradesh,Agra,20.52359,87.711151,Private,107,108,Yes,4.5,No
+HOS0211,Shree Indore Health Center,Madhya Pradesh,Indore,28.638637,86.383126,Private,344,56,Yes,2.5,No
+HOS0212,LifeCare Nagpur Medical Centre,Maharashtra,Nagpur,10.53162,80.498406,Private,544,62,Yes,2.7,No
+HOS0213,Fortis Bhavnagar Multi Speciality Hospital,Gujarat,Bhavnagar,33.047827,68.357878,Private,106,102,No,4.8,No
+HOS0214,Shree Bhavnagar Health Center,Gujarat,Bhavnagar,12.915551,75.79865,Government,169,18,Yes,3.2,No
+HOS0215,Apollo Indore Medical Centre,Madhya Pradesh,Indore,28.906084,82.378271,Private,488,23,Yes,2.5,No
+HOS0216,Fortis Vadodara Multi Speciality Hospital,Gujarat,Vadodara,20.766465,80.48787,Private,159,48,Yes,4.9,No
+HOS0217,MediPlus Pune Multi Speciality Hospital,Maharashtra,Pune,16.451996,88.153775,Private,268,51,Yes,4.5,No
+HOS0218,Sunrise Ujjain Care Hospital,Madhya Pradesh,Ujjain,36.920683,73.217889,Private,47,103,Yes,4.3,No
+HOS0219,Lotus Mumbai Health Center,Maharashtra,Mumbai,27.516352,72.036195,Government,278,94,Yes,3.6,No
+HOS0220,Sanjeevani Udaipur Care Hospital,Rajasthan,Udaipur,19.623348,82.691767,Private,448,79,Yes,4.9,No
+HOS0221,District Bhavnagar Hospital,Gujarat,Bhavnagar,11.171713,75.198698,Private,190,92,Yes,3.9,No
+HOS0222,Fortis Kota Health Center,Rajasthan,Kota,11.072392,70.85959,Government,551,81,Yes,3.9,No
+HOS0223,Fortis Ajmer Care Hospital,Rajasthan,Ajmer,28.022682,72.371603,Private,514,23,Yes,4.8,No
+HOS0224,Apollo Agra Multi Speciality Hospital,Uttar Pradesh,Agra,21.204646,73.999152,Private,507,22,Yes,4.2,No
+HOS0225,Fortis Mumbai Hospital,Maharashtra,Mumbai,8.654968,77.94926,Government,188,104,Yes,2.9,No
+HOS0226,Sanjeevani Vadodara Medical Centre,Gujarat,Vadodara,31.134918,86.263049,Government,462,60,Yes,4.0,No
+HOS0227,MediPlus Vadodara Hospital,Gujarat,Vadodara,28.437333,73.96775,Private,84,83,Yes,4.7,No
+HOS0228,Sanjeevani Pune Hospital,Maharashtra,Pune,15.608248,93.01646,Private,340,86,Yes,3.5,No
+HOS0229,National Nashik Medical Centre,Maharashtra,Nashik,31.598409,88.473662,Government,106,96,Yes,2.8,No
+HOS0230,Prime Agra Medical Centre,Uttar Pradesh,Agra,22.813921,80.128934,Government,412,64,Yes,4.1,No
+HOS0231,Shree Prayagraj Health Center,Uttar Pradesh,Prayagraj,16.376208,73.425859,Private,74,120,Yes,2.5,No
+HOS0232,Jan Kalyan Udaipur Health Center,Rajasthan,Udaipur,19.864896,82.260051,Private,474,72,Yes,3.9,No
+HOS0233,City Care Agra Multi Speciality Hospital,Uttar Pradesh,Agra,14.520459,76.371439,Private,599,105,Yes,3.7,No
+HOS0234,Apollo Ahmedabad Care Hospital,Gujarat,Ahmedabad,31.875201,78.638991,Private,62,107,Yes,3.9,No
+HOS0235,Apollo Bhopal Hospital,Madhya Pradesh,Bhopal,21.042238,78.108732,Private,469,120,No,4.4,No
+HOS0236,Lotus Rajkot Care Hospital,Gujarat,Rajkot,26.350348,72.813467,Government,231,114,Yes,2.6,No
+HOS0237,Jan Kalyan Aurangabad Medical Centre,Maharashtra,Aurangabad,17.385955,88.417559,Government,293,119,Yes,4.8,No
+HOS0238,Health First Varanasi Hospital,Uttar Pradesh,Varanasi,36.782101,93.14438,Government,155,41,Yes,3.3,No
+HOS0239,Shree Ajmer Care Hospital,Rajasthan,Ajmer,26.339657,86.206572,Government,97,91,Yes,4.4,No
+HOS0240,Sanjeevani Nagpur Health Center,Maharashtra,Nagpur,17.491389,68.071719,Private,115,103,No,4.1,No
+HOS0241,MediPlus Ujjain Medical Centre,Madhya Pradesh,Ujjain,36.075729,91.920582,Private,350,116,Yes,3.9,No
+HOS0242,Health First Kota Hospital,Rajasthan,Kota,9.332345,86.159206,Private,36,25,No,2.9,No
+HOS0243,Prime Jodhpur Medical Centre,Rajasthan,Jodhpur,33.582285,76.7541,Private,300,21,Yes,3.1,No
+HOS0244,MediPlus Lucknow Multi Speciality Hospital,Uttar Pradesh,Lucknow,29.053663,89.901733,Private,113,100,Yes,3.0,Yes
+HOS0245,Jan Kalyan Surat Health Center,Gujarat,Surat,8.269321,88.172316,Private,452,98,Yes,2.7,No
+HOS0246,Aarogya Gwalior Multi Speciality Hospital,Madhya Pradesh,Gwalior,33.548681,71.97675,Private,156,92,No,2.9,No
+HOS0247,District Ujjain Medical Centre,Madhya Pradesh,Ujjain,20.762883,88.950529,Private,175,62,Yes,3.6,No
+HOS0248,Fortis Bhopal Hospital,Madhya Pradesh,Bhopal,25.097644,79.136925,Private,342,111,Yes,3.2,No
+HOS0249,National Bhavnagar Care Hospital,Gujarat,Bhavnagar,16.262703,95.297098,Government,328,36,Yes,3.8,No
+HOS0250,Fortis Mumbai Medical Centre,Maharashtra,Mumbai,22.351744,71.269566,Private,92,77,No,2.5,No
+HOS0251,MediPlus Pune Care Hospital,Maharashtra,Pune,20.205042,83.84433,Government,502,108,Yes,4.0,Yes
+HOS0252,Health First Lucknow Hospital,Uttar Pradesh,Lucknow,35.51172,79.541276,Government,533,108,Yes,4.3,No
+HOS0253,National Bhavnagar Medical Centre,Gujarat,Bhavnagar,16.046564,76.9873,Private,228,113,Yes,3.3,No
+HOS0254,Prime Indore Health Center,Madhya Pradesh,Indore,29.168793,92.547575,Government,108,65,Yes,4.0,Yes
+HOS0255,City Care Lucknow Medical Centre,Uttar Pradesh,Lucknow,28.343489,72.751146,Private,555,76,Yes,4.3,No
+HOS0256,Prime Agra Hospital,Uttar Pradesh,Agra,30.371478,68.851331,Private,298,77,Yes,4.3,No
+HOS0257,Sanjeevani Jabalpur Care Hospital,Madhya Pradesh,Jabalpur,18.443593,82.48869,Private,396,30,Yes,2.8,No
+HOS0258,Prime Bhopal Care Hospital,Madhya Pradesh,Bhopal,8.074487,92.901981,Government,67,70,Yes,4.8,No
+HOS0259,Fortis Ujjain Health Center,Madhya Pradesh,Ujjain,14.510944,75.199632,Private,347,44,Yes,3.9,No
+HOS0260,Sunrise Bhopal Care Hospital,Madhya Pradesh,Bhopal,36.461002,95.668303,Government,496,120,Yes,4.6,No
+HOS0261,City Care Vadodara Multi Speciality Hospital,Gujarat,Vadodara,13.819463,84.350395,Government,268,69,Yes,4.9,No
+HOS0262,Fortis Prayagraj Medical Centre,Uttar Pradesh,Prayagraj,12.366425,95.039528,Government,574,54,Yes,4.2,Yes
+HOS0263,Fortis Mumbai Health Center,Maharashtra,Mumbai,32.621174,89.089236,Government,562,40,Yes,4.9,No
+HOS0264,LifeCare Agra Hospital,Uttar Pradesh,Agra,34.716958,94.021337,Private,401,68,No,2.7,No
+HOS0265,LifeCare Varanasi Care Hospital,Uttar Pradesh,Varanasi,24.466801,80.614503,Private,262,47,Yes,3.3,No
+HOS0266,Sanjeevani Nagpur Multi Speciality Hospital,Maharashtra,Nagpur,14.774726,95.363086,Government,131,29,Yes,3.6,No
+HOS0267,Aarogya Ujjain Medical Centre,Madhya Pradesh,Ujjain,21.105595,81.437051,Private,112,30,Yes,3.3,No
+HOS0268,Sunrise Ahmedabad Multi Speciality Hospital,Gujarat,Ahmedabad,12.30139,88.623565,Private,425,75,Yes,3.2,No
+HOS0269,MediPlus Lucknow Health Center,Uttar Pradesh,Lucknow,24.122659,83.953506,Government,124,112,Yes,2.8,Yes
+HOS0270,Sunrise Kanpur Health Center,Uttar Pradesh,Kanpur,18.794953,86.278629,Private,285,114,Yes,5.0,No
+HOS0271,LifeCare Jodhpur Multi Speciality Hospital,Rajasthan,Jodhpur,11.553302,95.326139,Government,463,115,Yes,3.7,No
+HOS0272,Aarogya Jodhpur Medical Centre,Rajasthan,Jodhpur,34.340822,75.974471,Private,172,14,Yes,4.0,No
+HOS0273,Health First Ajmer Care Hospital,Rajasthan,Ajmer,21.891897,70.543925,Government,449,35,Yes,4.5,No
+HOS0274,MediPlus Ahmedabad Multi Speciality Hospital,Gujarat,Ahmedabad,21.910849,90.661618,Government,599,74,Yes,3.2,Yes
+HOS0275,City Care Surat Multi Speciality Hospital,Gujarat,Surat,9.699146,96.754408,Private,258,30,Yes,4.1,No
+HOS0276,National Bhopal Health Center,Madhya Pradesh,Bhopal,18.289334,92.337445,Private,200,40,Yes,4.5,No
+HOS0277,Prime Ahmedabad Multi Speciality Hospital,Gujarat,Ahmedabad,35.479203,84.344588,Private,212,117,No,4.7,No
+HOS0278,Sanjeevani Pune Hospital,Maharashtra,Pune,10.617464,74.746077,Government,559,71,Yes,4.8,No
+HOS0279,Prime Agra Medical Centre,Uttar Pradesh,Agra,34.644643,92.484239,Government,42,28,Yes,4.8,No
+HOS0280,LifeCare Rajkot Multi Speciality Hospital,Gujarat,Rajkot,28.431602,87.202047,Private,364,48,Yes,4.9,No
+HOS0281,District Ajmer Multi Speciality Hospital,Rajasthan,Ajmer,13.051877,96.093544,Private,385,38,Yes,4.5,No
+HOS0282,Shree Pune Hospital,Maharashtra,Pune,35.514855,95.512247,Government,53,33,Yes,4.8,No
+HOS0283,LifeCare Prayagraj Health Center,Uttar Pradesh,Prayagraj,12.078658,89.614957,Government,347,31,Yes,4.9,No
+HOS0284,City Care Nashik Multi Speciality Hospital,Maharashtra,Nashik,14.080844,88.102106,Government,130,102,Yes,3.5,No
+HOS0285,Sanjeevani Varanasi Health Center,Uttar Pradesh,Varanasi,18.185704,78.88508,Private,250,30,Yes,4.5,Yes
+HOS0286,Apollo Indore Hospital,Madhya Pradesh,Indore,10.151812,72.933051,Government,96,80,No,4.9,No
+HOS0287,Prime Vadodara Hospital,Gujarat,Vadodara,20.508377,86.95542,Private,464,30,Yes,3.3,No
+HOS0288,Prime Udaipur Care Hospital,Rajasthan,Udaipur,15.692678,76.164169,Government,70,60,Yes,4.6,No
+HOS0289,MediPlus Mumbai Hospital,Maharashtra,Mumbai,16.541934,87.198587,Private,224,22,Yes,2.9,No
+HOS0290,Lotus Jabalpur Hospital,Madhya Pradesh,Jabalpur,16.942249,79.526553,Private,291,21,Yes,3.5,No
+HOS0291,Shree Kota Health Center,Rajasthan,Kota,9.293891,80.752472,Government,295,82,Yes,4.4,No
+HOS0292,Fortis Indore Care Hospital,Madhya Pradesh,Indore,20.005613,89.93725,Government,82,117,Yes,3.8,No
+HOS0293,Health First Udaipur Medical Centre,Rajasthan,Udaipur,21.811606,70.289696,Private,55,74,Yes,3.8,No
+HOS0294,LifeCare Surat Health Center,Gujarat,Surat,13.01349,96.546672,Private,217,26,Yes,2.7,No
+HOS0295,Lotus Kanpur Care Hospital,Uttar Pradesh,Kanpur,15.478704,94.41333,Private,88,21,Yes,3.5,No
+HOS0296,Sanjeevani Aurangabad Hospital,Maharashtra,Aurangabad,30.809969,86.06868,Private,449,24,Yes,2.9,No
+HOS0297,National Gwalior Hospital,Madhya Pradesh,Gwalior,30.786623,93.156783,Private,440,43,Yes,3.7,No
+HOS0298,Apollo Bhopal Health Center,Madhya Pradesh,Bhopal,12.171727,85.651003,Private,59,60,No,3.3,No
+HOS0299,Health First Kota Multi Speciality Hospital,Rajasthan,Kota,8.586754,91.704192,Government,307,117,Yes,4.2,No
+HOS0300,Apollo Kanpur Health Center,Uttar Pradesh,Kanpur,30.446896,77.305181,Private,111,34,Yes,4.8,No
+HOS0301,Lotus Udaipur Multi Speciality Hospital,Rajasthan,Udaipur,31.809504,82.942821,Government,338,100,Yes,2.8,No
+HOS0302,Shree Ahmedabad Medical Centre,Gujarat,Ahmedabad,33.380236,73.821077,Government,53,68,Yes,3.4,No
+HOS0303,Jan Kalyan Nashik Health Center,Maharashtra,Nashik,26.426884,71.592313,Government,401,72,Yes,2.9,No
+HOS0304,Aarogya Bhavnagar Multi Speciality Hospital,Gujarat,Bhavnagar,12.741895,93.940266,Private,112,46,Yes,2.6,No
+HOS0305,District Kanpur Medical Centre,Uttar Pradesh,Kanpur,27.653162,75.803424,Private,40,120,Yes,4.4,Yes
+HOS0306,National Kanpur Hospital,Uttar Pradesh,Kanpur,14.489331,85.641973,Private,301,64,No,4.6,No
+HOS0307,Apollo Varanasi Care Hospital,Uttar Pradesh,Varanasi,31.905014,79.517424,Government,543,94,No,4.6,No
+HOS0308,Apollo Bhavnagar Multi Speciality Hospital,Gujarat,Bhavnagar,27.847981,81.970414,Government,303,91,Yes,3.2,No
+HOS0309,Shree Pune Care Hospital,Maharashtra,Pune,30.198757,94.090924,Private,433,94,Yes,2.8,Yes
+HOS0310,Apollo Kota Health Center,Rajasthan,Kota,19.733368,89.365231,Private,214,53,Yes,3.1,No
+HOS0311,Jan Kalyan Kota Multi Speciality Hospital,Rajasthan,Kota,32.517158,92.378522,Private,205,47,Yes,2.8,No
+HOS0312,District Surat Multi Speciality Hospital,Gujarat,Surat,26.978605,74.445352,Government,334,63,Yes,3.3,No
+HOS0313,Lotus Nashik Hospital,Maharashtra,Nashik,21.64556,93.125408,Private,92,70,No,3.8,No
+HOS0314,Apollo Udaipur Health Center,Rajasthan,Udaipur,9.567797,92.772953,Government,225,53,Yes,3.9,No
+HOS0315,Aarogya Jodhpur Medical Centre,Rajasthan,Jodhpur,30.589294,82.139845,Private,201,50,Yes,2.5,No
+HOS0316,Fortis Prayagraj Medical Centre,Uttar Pradesh,Prayagraj,22.197736,90.143506,Government,464,91,Yes,3.6,No
+HOS0317,Jan Kalyan Gwalior Medical Centre,Madhya Pradesh,Gwalior,29.189113,95.55199,Private,563,34,Yes,2.5,No
+HOS0318,Apollo Agra Medical Centre,Uttar Pradesh,Agra,10.978538,82.596758,Government,86,115,Yes,4.9,No
+HOS0319,Jan Kalyan Bhavnagar Multi Speciality Hospital,Gujarat,Bhavnagar,20.576292,87.916624,Government,521,55,Yes,2.9,No
+HOS0320,Sunrise Jaipur Medical Centre,Rajasthan,Jaipur,29.087896,71.804968,Private,536,31,Yes,4.3,No
+HOS0321,Fortis Kota Care Hospital,Rajasthan,Kota,26.070909,85.223798,Government,130,93,Yes,2.6,No
+HOS0322,LifeCare Ajmer Care Hospital,Rajasthan,Ajmer,15.32941,88.354178,Government,29,48,Yes,2.8,No
+HOS0323,Prime Bhavnagar Medical Centre,Gujarat,Bhavnagar,20.145947,94.060036,Private,140,46,Yes,2.8,No
+HOS0324,Lotus Agra Care Hospital,Uttar Pradesh,Agra,36.220472,78.379733,Private,184,15,Yes,4.8,No
+HOS0325,Sunrise Kota Hospital,Rajasthan,Kota,8.369733,70.581082,Government,525,29,No,4.4,Yes
+HOS0326,District Indore Medical Centre,Madhya Pradesh,Indore,21.245786,96.341438,Government,71,22,Yes,4.7,No
+HOS0327,MediPlus Nagpur Hospital,Maharashtra,Nagpur,10.754956,89.987916,Government,161,94,Yes,3.3,No
+HOS0328,Health First Rajkot Hospital,Gujarat,Rajkot,18.806042,77.938959,Government,429,68,Yes,3.5,No
+HOS0329,LifeCare Jodhpur Medical Centre,Rajasthan,Jodhpur,28.188926,69.700745,Private,183,23,Yes,4.0,No
+HOS0330,National Jodhpur Health Center,Rajasthan,Jodhpur,30.595765,85.729394,Private,153,71,No,2.8,No
+HOS0331,Apollo Gwalior Multi Speciality Hospital,Madhya Pradesh,Gwalior,8.358446,93.181636,Private,598,38,No,4.2,No
+HOS0332,LifeCare Bhavnagar Health Center,Gujarat,Bhavnagar,27.189685,75.208733,Government,414,29,Yes,3.9,No
+HOS0333,District Gwalior Medical Centre,Madhya Pradesh,Gwalior,22.66146,81.609379,Private,189,19,Yes,3.3,No
+HOS0334,Jan Kalyan Mumbai Medical Centre,Maharashtra,Mumbai,23.964372,78.98049,Private,100,68,Yes,3.9,No
+HOS0335,Aarogya Ajmer Hospital,Rajasthan,Ajmer,36.439451,89.61193,Government,433,62,Yes,3.9,No
+HOS0336,District Bhavnagar Multi Speciality Hospital,Gujarat,Bhavnagar,33.813216,84.307645,Private,487,53,Yes,2.6,No
+HOS0337,Jan Kalyan Kota Care Hospital,Rajasthan,Kota,25.398583,88.783084,Government,483,24,Yes,4.1,Yes
+HOS0338,Jan Kalyan Nagpur Care Hospital,Maharashtra,Nagpur,18.84282,71.083345,Private,524,27,Yes,4.4,No
+HOS0339,Sunrise Aurangabad Medical Centre,Maharashtra,Aurangabad,11.501628,92.713637,Government,215,101,Yes,4.4,Yes
+HOS0340,Fortis Ahmedabad Health Center,Gujarat,Ahmedabad,21.264248,85.090169,Private,530,10,Yes,2.6,No
+HOS0341,Health First Vadodara Care Hospital,Gujarat,Vadodara,30.651363,94.395263,Private,197,103,Yes,2.8,No
+HOS0342,Jan Kalyan Rajkot Health Center,Gujarat,Rajkot,20.141278,85.660817,Private,274,45,Yes,3.4,No
+HOS0343,MediPlus Kanpur Care Hospital,Uttar Pradesh,Kanpur,28.300414,89.704379,Government,580,120,Yes,4.3,No
+HOS0344,Sunrise Kanpur Care Hospital,Uttar Pradesh,Kanpur,28.717152,87.911728,Private,155,100,Yes,4.9,No
+HOS0345,Fortis Mumbai Multi Speciality Hospital,Maharashtra,Mumbai,24.306126,84.901382,Private,447,96,Yes,4.6,No
+HOS0346,Jan Kalyan Jaipur Hospital,Rajasthan,Jaipur,8.732892,72.214475,Private,224,44,Yes,2.9,No
+HOS0347,Lotus Pune Hospital,Maharashtra,Pune,28.027251,76.559076,Private,53,55,Yes,2.8,No
+HOS0348,Prime Surat Care Hospital,Gujarat,Surat,19.277713,82.816747,Private,314,98,Yes,4.8,No
+HOS0349,City Care Aurangabad Hospital,Maharashtra,Aurangabad,29.566429,73.889529,Private,473,116,Yes,4.1,No
+HOS0350,Jan Kalyan Aurangabad Care Hospital,Maharashtra,Aurangabad,13.697603,89.022521,Government,479,32,No,2.7,No
+HOS0351,MediPlus Ahmedabad Hospital,Gujarat,Ahmedabad,20.426727,84.14136,Government,281,10,Yes,4.3,No
+HOS0352,National Agra Hospital,Uttar Pradesh,Agra,30.436168,86.135633,Private,328,72,Yes,3.9,Yes
+HOS0353,Sunrise Aurangabad Medical Centre,Maharashtra,Aurangabad,23.097582,90.801489,Government,576,78,Yes,3.4,No
+HOS0354,Aarogya Nagpur Multi Speciality Hospital,Maharashtra,Nagpur,14.334913,89.827015,Private,594,115,Yes,4.1,No
+HOS0355,Sunrise Nashik Care Hospital,Maharashtra,Nashik,34.639612,75.070988,Government,348,58,No,4.9,No
+HOS0356,City Care Rajkot Care Hospital,Gujarat,Rajkot,31.841163,78.873783,Private,476,72,Yes,4.7,No
+HOS0357,LifeCare Ahmedabad Medical Centre,Gujarat,Ahmedabad,36.177234,90.426237,Private,87,36,Yes,4.4,No
+HOS0358,Sunrise Jaipur Care Hospital,Rajasthan,Jaipur,32.033711,93.48048,Private,465,92,Yes,2.7,No
+HOS0359,Prime Jabalpur Multi Speciality Hospital,Madhya Pradesh,Jabalpur,9.098703,70.124193,Government,277,81,Yes,4.6,No
+HOS0360,Sanjeevani Ajmer Health Center,Rajasthan,Ajmer,20.557726,68.489838,Private,567,10,Yes,4.0,No
+HOS0361,Prime Ahmedabad Hospital,Gujarat,Ahmedabad,18.373304,82.582272,Government,328,87,Yes,4.4,No
+HOS0362,Sanjeevani Jaipur Medical Centre,Rajasthan,Jaipur,23.470565,71.955062,Government,578,47,No,2.9,No
+HOS0363,Jan Kalyan Mumbai Care Hospital,Maharashtra,Mumbai,12.099842,69.211421,Private,423,78,Yes,2.7,No
+HOS0364,MediPlus Pune Care Hospital,Maharashtra,Pune,12.131198,73.335789,Private,278,34,Yes,4.2,No
+HOS0365,Sanjeevani Ujjain Care Hospital,Madhya Pradesh,Ujjain,10.121193,87.478872,Government,222,102,Yes,4.9,No
+HOS0366,Apollo Lucknow Care Hospital,Uttar Pradesh,Lucknow,10.024458,73.611459,Private,356,88,Yes,4.2,No
+HOS0367,Fortis Rajkot Multi Speciality Hospital,Gujarat,Rajkot,35.801109,72.890546,Government,246,101,Yes,3.6,No
+HOS0368,Health First Agra Health Center,Uttar Pradesh,Agra,21.422603,78.403506,Government,584,23,Yes,4.0,No
+HOS0369,Sunrise Prayagraj Multi Speciality Hospital,Uttar Pradesh,Prayagraj,29.272794,86.171948,Private,39,118,Yes,2.6,No
+HOS0370,Sunrise Udaipur Hospital,Rajasthan,Udaipur,23.996226,83.76061,Private,503,93,Yes,3.4,No
+HOS0371,Shree Rajkot Health Center,Gujarat,Rajkot,22.532572,70.626067,Government,30,94,Yes,4.9,No
+HOS0372,Shree Prayagraj Health Center,Uttar Pradesh,Prayagraj,12.61745,84.42436,Private,169,104,Yes,4.8,Yes
+HOS0373,LifeCare Jodhpur Multi Speciality Hospital,Rajasthan,Jodhpur,18.71362,69.241445,Government,389,59,Yes,3.6,Yes
+HOS0374,Prime Mumbai Care Hospital,Maharashtra,Mumbai,26.373442,75.931364,Private,577,82,Yes,4.1,No
+HOS0375,Apollo Ujjain Health Center,Madhya Pradesh,Ujjain,36.207549,74.464078,Private,373,72,Yes,4.7,Yes
+HOS0376,Shree Varanasi Medical Centre,Uttar Pradesh,Varanasi,10.235559,86.660833,Government,211,30,Yes,4.3,No
+HOS0377,Fortis Varanasi Multi Speciality Hospital,Uttar Pradesh,Varanasi,28.887414,81.963983,Private,235,85,Yes,4.6,Yes
+HOS0378,National Bhopal Care Hospital,Madhya Pradesh,Bhopal,12.672745,86.256672,Government,170,17,Yes,4.8,No
+HOS0379,National Udaipur Hospital,Rajasthan,Udaipur,33.476761,89.111255,Private,107,37,Yes,5.0,No
+HOS0380,Lotus Kanpur Health Center,Uttar Pradesh,Kanpur,25.424323,91.043866,Private,206,89,Yes,3.2,No
+HOS0381,National Nashik Care Hospital,Maharashtra,Nashik,9.996444,78.968129,Government,36,35,Yes,4.8,No
+HOS0382,LifeCare Prayagraj Medical Centre,Uttar Pradesh,Prayagraj,21.800206,85.827697,Government,564,74,Yes,2.7,No
+HOS0383,Lotus Bhavnagar Hospital,Gujarat,Bhavnagar,34.0121,90.471242,Private,554,63,Yes,2.6,No
+HOS0384,Fortis Varanasi Health Center,Uttar Pradesh,Varanasi,18.165017,91.33401,Private,120,64,Yes,3.7,No
+HOS0385,National Indore Care Hospital,Madhya Pradesh,Indore,19.850754,73.481609,Private,27,83,Yes,3.8,No
+HOS0386,MediPlus Agra Multi Speciality Hospital,Uttar Pradesh,Agra,11.090913,80.356076,Private,287,119,Yes,3.9,No
+HOS0387,MediPlus Jodhpur Care Hospital,Rajasthan,Jodhpur,30.729864,81.991565,Government,588,71,Yes,3.3,No
+HOS0388,Lotus Jodhpur Hospital,Rajasthan,Jodhpur,29.686612,80.951251,Private,185,22,Yes,3.5,No
+HOS0389,Prime Bhavnagar Hospital,Gujarat,Bhavnagar,12.661402,95.972537,Government,113,115,Yes,4.8,No
+HOS0390,Sunrise Indore Multi Speciality Hospital,Madhya Pradesh,Indore,10.321152,69.094905,Government,430,88,Yes,3.2,No
+HOS0391,District Bhopal Health Center,Madhya Pradesh,Bhopal,20.730189,73.84951,Private,550,46,Yes,4.5,No
+HOS0392,Shree Prayagraj Hospital,Uttar Pradesh,Prayagraj,18.43246,86.995554,Private,108,45,Yes,3.4,No
+HOS0393,Jan Kalyan Surat Hospital,Gujarat,Surat,29.370841,69.989898,Government,311,102,Yes,4.8,No
+HOS0394,National Pune Medical Centre,Maharashtra,Pune,21.188011,79.714738,Government,199,62,Yes,3.9,No
+HOS0395,Fortis Mumbai Care Hospital,Maharashtra,Mumbai,35.744571,93.407278,Private,276,98,Yes,3.4,No
+HOS0396,Fortis Agra Health Center,Uttar Pradesh,Agra,27.766246,93.999191,Private,513,24,Yes,3.5,No
+HOS0397,Fortis Kanpur Multi Speciality Hospital,Uttar Pradesh,Kanpur,19.960353,78.239792,Private,289,41,Yes,3.5,No
+HOS0398,Jan Kalyan Mumbai Medical Centre,Maharashtra,Mumbai,21.820108,78.2526,Private,295,33,No,4.2,No
+HOS0399,Sunrise Jodhpur Medical Centre,Rajasthan,Jodhpur,33.309532,73.99658,Government,275,117,Yes,2.9,No
+HOS0400,National Jabalpur Hospital,Madhya Pradesh,Jabalpur,30.163082,83.702745,Government,513,57,Yes,3.7,No
+HOS0401,Sanjeevani Rajkot Medical Centre,Gujarat,Rajkot,36.547446,94.564198,Government,247,106,Yes,2.6,No
+HOS0402,City Care Udaipur Care Hospital,Rajasthan,Udaipur,18.07138,92.951604,Private,488,25,Yes,3.7,No
+HOS0403,MediPlus Bhopal Care Hospital,Madhya Pradesh,Bhopal,10.921687,78.486467,Private,211,80,Yes,3.2,No
+HOS0404,Shree Nagpur Health Center,Maharashtra,Nagpur,20.294344,80.153695,Private,393,119,Yes,3.6,No
+HOS0405,Lotus Surat Hospital,Gujarat,Surat,28.903648,91.31854,Private,410,35,Yes,4.9,No
+HOS0406,MediPlus Bhopal Health Center,Madhya Pradesh,Bhopal,11.899679,93.904842,Private,566,102,Yes,3.7,No
+HOS0407,MediPlus Ahmedabad Hospital,Gujarat,Ahmedabad,28.025752,69.741055,Private,507,117,Yes,3.6,No
+HOS0408,Jan Kalyan Nagpur Care Hospital,Maharashtra,Nagpur,35.023493,75.47373,Government,144,54,No,4.9,No
+HOS0409,Shree Bhavnagar Multi Speciality Hospital,Gujarat,Bhavnagar,18.298162,87.522592,Private,477,20,Yes,3.2,No
+HOS0410,District Kanpur Multi Speciality Hospital,Uttar Pradesh,Kanpur,20.232678,85.756994,Private,93,20,Yes,3.1,No
+HOS0411,National Nagpur Health Center,Maharashtra,Nagpur,15.866195,80.902053,Private,391,105,Yes,4.9,No
+HOS0412,Shree Lucknow Medical Centre,Uttar Pradesh,Lucknow,27.198654,95.272683,Private,101,36,Yes,2.8,Yes
+HOS0413,City Care Udaipur Hospital,Rajasthan,Udaipur,30.357077,83.195501,Private,126,43,Yes,2.7,No
+HOS0414,Sunrise Kota Medical Centre,Rajasthan,Kota,29.390204,80.851652,Government,559,117,Yes,2.6,No
+HOS0415,Sanjeevani Nashik Care Hospital,Maharashtra,Nashik,35.11087,83.907813,Government,572,32,Yes,3.6,No
+HOS0416,Jan Kalyan Vadodara Care Hospital,Gujarat,Vadodara,16.980179,78.067881,Private,111,66,Yes,3.5,No
+HOS0417,Jan Kalyan Gwalior Medical Centre,Madhya Pradesh,Gwalior,17.972663,81.606741,Government,523,106,Yes,2.5,No
+HOS0418,Sunrise Aurangabad Hospital,Maharashtra,Aurangabad,23.898154,73.468558,Private,467,60,Yes,4.3,No
+HOS0419,Apollo Jodhpur Hospital,Rajasthan,Jodhpur,20.244942,74.947293,Private,298,46,Yes,3.8,No
+HOS0420,Shree Lucknow Medical Centre,Uttar Pradesh,Lucknow,16.398264,86.469889,Private,298,99,Yes,3.0,Yes
+HOS0421,City Care Ujjain Medical Centre,Madhya Pradesh,Ujjain,36.197646,76.181322,Government,468,103,Yes,2.7,Yes
+HOS0422,MediPlus Agra Multi Speciality Hospital,Uttar Pradesh,Agra,30.786035,82.453477,Government,52,52,Yes,4.4,No
+HOS0423,LifeCare Nashik Care Hospital,Maharashtra,Nashik,21.634257,73.573576,Private,410,116,Yes,4.9,No
+HOS0424,Sunrise Ajmer Hospital,Rajasthan,Ajmer,13.776216,89.324361,Government,233,70,Yes,4.9,No
+HOS0425,Prime Lucknow Care Hospital,Uttar Pradesh,Lucknow,23.106861,75.346069,Private,223,56,No,4.7,No
+HOS0426,District Bhopal Health Center,Madhya Pradesh,Bhopal,17.410891,72.85345,Government,142,60,Yes,2.5,Yes
+HOS0427,Shree Udaipur Multi Speciality Hospital,Rajasthan,Udaipur,30.353113,75.212945,Private,366,107,Yes,2.6,No
+HOS0428,Shree Ahmedabad Health Center,Gujarat,Ahmedabad,14.747564,96.468596,Private,375,113,No,4.3,Yes
+HOS0429,Prime Kota Medical Centre,Rajasthan,Kota,15.270191,69.145168,Private,592,47,Yes,3.7,No
+HOS0430,Aarogya Rajkot Health Center,Gujarat,Rajkot,15.984409,92.109138,Private,587,30,Yes,2.9,No
+HOS0431,Aarogya Aurangabad Health Center,Maharashtra,Aurangabad,8.020875,86.502756,Government,209,12,Yes,3.4,No
+HOS0432,District Mumbai Care Hospital,Maharashtra,Mumbai,31.752442,73.506214,Private,584,29,Yes,3.3,No
+HOS0433,Jan Kalyan Gwalior Hospital,Madhya Pradesh,Gwalior,9.269541,95.196187,Government,52,35,Yes,3.0,Yes
+HOS0434,Jan Kalyan Ajmer Care Hospital,Rajasthan,Ajmer,28.338107,75.422217,Government,92,11,No,3.0,No
+HOS0435,Fortis Jabalpur Hospital,Madhya Pradesh,Jabalpur,18.466855,89.560846,Private,397,111,Yes,4.6,No
+HOS0436,Lotus Gwalior Multi Speciality Hospital,Madhya Pradesh,Gwalior,10.260126,74.261102,Private,123,102,Yes,3.5,No
+HOS0437,District Prayagraj Medical Centre,Uttar Pradesh,Prayagraj,24.194281,84.186107,Private,386,96,Yes,4.2,No
+HOS0438,Jan Kalyan Kanpur Health Center,Uttar Pradesh,Kanpur,22.636091,87.068425,Private,473,55,No,3.9,No
+HOS0439,Fortis Nashik Health Center,Maharashtra,Nashik,31.958494,77.380077,Government,578,37,Yes,3.9,No
+HOS0440,Sanjeevani Nashik Health Center,Maharashtra,Nashik,8.005673,69.005224,Government,36,76,Yes,4.7,Yes
+HOS0441,Lotus Kanpur Multi Speciality Hospital,Uttar Pradesh,Kanpur,8.62934,91.836258,Private,302,80,Yes,3.9,No
+HOS0442,Sanjeevani Gwalior Multi Speciality Hospital,Madhya Pradesh,Gwalior,12.527106,75.684657,Private,275,39,Yes,3.3,No
+HOS0443,Prime Surat Hospital,Gujarat,Surat,28.983835,90.994222,Government,117,86,Yes,2.6,No
+HOS0444,Fortis Jaipur Hospital,Rajasthan,Jaipur,34.734273,77.6973,Private,464,63,No,2.8,No
+HOS0445,District Ahmedabad Health Center,Gujarat,Ahmedabad,9.569711,83.207117,Government,598,29,Yes,4.2,No
+HOS0446,Fortis Ajmer Care Hospital,Rajasthan,Ajmer,24.682391,70.612406,Private,423,28,Yes,2.7,No
+HOS0447,MediPlus Ujjain Multi Speciality Hospital,Madhya Pradesh,Ujjain,10.467291,82.55287,Private,153,107,Yes,3.9,No
+HOS0448,Jan Kalyan Surat Care Hospital,Gujarat,Surat,36.915284,83.203186,Government,292,109,Yes,4.2,No
+HOS0449,MediPlus Jabalpur Multi Speciality Hospital,Madhya Pradesh,Jabalpur,18.100928,77.301413,Private,44,108,Yes,5.0,No
+HOS0450,Shree Udaipur Health Center,Rajasthan,Udaipur,9.301449,91.726986,Government,402,29,Yes,4.6,No
+HOS0451,National Bhopal Medical Centre,Madhya Pradesh,Bhopal,33.193818,91.783885,Government,133,49,Yes,2.6,No
+HOS0452,Sunrise Surat Care Hospital,Gujarat,Surat,23.174711,75.501082,Private,164,98,Yes,2.5,No
+HOS0453,Apollo Ahmedabad Medical Centre,Gujarat,Ahmedabad,9.743191,73.820186,Private,297,16,Yes,4.9,Yes
+HOS0454,Lotus Nagpur Hospital,Maharashtra,Nagpur,8.553271,93.154903,Private,256,58,Yes,4.3,No
+HOS0455,Jan Kalyan Udaipur Hospital,Rajasthan,Udaipur,13.406104,82.518874,Private,42,15,Yes,3.8,No
+HOS0456,City Care Jodhpur Multi Speciality Hospital,Rajasthan,Jodhpur,27.845029,78.305966,Government,533,45,Yes,4.1,No
+HOS0457,Apollo Ujjain Medical Centre,Madhya Pradesh,Ujjain,12.399537,94.018084,Private,109,103,Yes,4.9,No
+HOS0458,Sunrise Varanasi Care Hospital,Uttar Pradesh,Varanasi,12.429725,96.145578,Private,357,67,Yes,3.0,No
+HOS0459,Lotus Surat Medical Centre,Gujarat,Surat,16.960953,88.448955,Private,158,65,No,4.9,No
+HOS0460,Aarogya Surat Hospital,Gujarat,Surat,24.162869,95.509445,Government,345,117,No,4.3,No
+HOS0461,Apollo Ajmer Health Center,Rajasthan,Ajmer,29.622682,91.829257,Private,300,29,Yes,2.8,No
+HOS0462,Apollo Bhavnagar Care Hospital,Gujarat,Bhavnagar,24.44425,74.696429,Government,46,55,Yes,4.4,No
+HOS0463,Prime Vadodara Multi Speciality Hospital,Gujarat,Vadodara,13.335318,79.236348,Private,187,34,Yes,3.5,No
+HOS0464,Sunrise Nashik Medical Centre,Maharashtra,Nashik,29.975521,69.917953,Private,469,120,Yes,4.2,No
+HOS0465,MediPlus Varanasi Hospital,Uttar Pradesh,Varanasi,25.629969,91.905527,Private,423,88,No,3.9,No
+HOS0466,LifeCare Ujjain Health Center,Madhya Pradesh,Ujjain,21.250112,93.455242,Private,271,76,Yes,5.0,Yes
+HOS0467,Fortis Udaipur Hospital,Rajasthan,Udaipur,13.50566,80.747062,Private,312,69,Yes,3.2,No
+HOS0468,Sanjeevani Surat Health Center,Gujarat,Surat,10.622783,82.519076,Government,579,27,Yes,3.3,Yes
+HOS0469,Health First Udaipur Medical Centre,Rajasthan,Udaipur,33.593905,70.61521,Government,187,101,Yes,2.7,No
+HOS0470,Jan Kalyan Mumbai Health Center,Maharashtra,Mumbai,29.079341,96.280551,Private,183,58,Yes,2.6,No
+HOS0471,Lotus Aurangabad Medical Centre,Maharashtra,Aurangabad,12.701599,72.193614,Private,72,63,Yes,4.3,No
+HOS0472,LifeCare Pune Medical Centre,Maharashtra,Pune,35.852583,68.102454,Private,32,68,Yes,3.7,No
+HOS0473,Sunrise Vadodara Medical Centre,Gujarat,Vadodara,25.077007,81.795648,Private,101,86,Yes,3.1,No
+HOS0474,Lotus Bhavnagar Medical Centre,Gujarat,Bhavnagar,9.418645,72.299429,Private,57,28,No,4.2,No
+HOS0475,Health First Nagpur Hospital,Maharashtra,Nagpur,9.42191,80.091751,Government,311,88,Yes,4.2,No
+HOS0476,Sanjeevani Surat Care Hospital,Gujarat,Surat,18.445471,69.039361,Private,350,57,No,4.6,No
+HOS0477,Apollo Ahmedabad Health Center,Gujarat,Ahmedabad,11.901828,88.143964,Government,559,62,Yes,4.2,No
+HOS0478,Prime Ujjain Care Hospital,Madhya Pradesh,Ujjain,36.628489,82.026227,Private,314,64,Yes,3.3,No
+HOS0479,Health First Rajkot Medical Centre,Gujarat,Rajkot,25.814409,82.395511,Private,529,73,Yes,4.7,No
+HOS0480,City Care Pune Hospital,Maharashtra,Pune,8.695617,86.138362,Government,232,112,Yes,3.5,Yes
+HOS0481,Fortis Aurangabad Medical Centre,Maharashtra,Aurangabad,8.327621,73.834427,Government,89,49,Yes,3.9,No
+HOS0482,Aarogya Indore Health Center,Madhya Pradesh,Indore,29.007503,85.863807,Government,199,34,Yes,3.3,No
+HOS0483,District Jaipur Medical Centre,Rajasthan,Jaipur,21.96337,86.188814,Private,569,52,Yes,4.5,No
+HOS0484,Apollo Ujjain Care Hospital,Madhya Pradesh,Ujjain,29.02396,77.149582,Private,233,83,Yes,4.5,No
+HOS0485,Shree Mumbai Multi Speciality Hospital,Maharashtra,Mumbai,32.381435,77.83542,Government,567,117,Yes,4.0,No
+HOS0486,Prime Indore Multi Speciality Hospital,Madhya Pradesh,Indore,28.58536,75.873425,Government,263,57,Yes,4.9,No
+HOS0487,LifeCare Pune Multi Speciality Hospital,Maharashtra,Pune,30.763376,90.555921,Private,474,74,Yes,3.7,No
+HOS0488,Health First Agra Health Center,Uttar Pradesh,Agra,29.240791,83.185211,Private,166,108,No,4.6,No
+HOS0489,Prime Kanpur Hospital,Uttar Pradesh,Kanpur,21.321684,88.696644,Private,24,49,No,4.2,No
+HOS0490,Sanjeevani Indore Hospital,Madhya Pradesh,Indore,10.989982,90.219225,Private,43,83,Yes,4.1,No
+HOS0491,Apollo Kanpur Multi Speciality Hospital,Uttar Pradesh,Kanpur,23.435998,90.410826,Private,299,29,Yes,2.8,No
+HOS0492,LifeCare Bhavnagar Medical Centre,Gujarat,Bhavnagar,23.733333,83.931604,Government,310,83,Yes,2.7,No
+HOS0493,Sanjeevani Aurangabad Hospital,Maharashtra,Aurangabad,11.772146,81.651332,Private,128,59,Yes,3.6,No
+HOS0494,District Bhavnagar Health Center,Gujarat,Bhavnagar,25.873145,77.060779,Private,566,20,No,4.4,No
+HOS0495,Lotus Lucknow Health Center,Uttar Pradesh,Lucknow,10.820627,77.001359,Private,496,70,Yes,3.1,No
+HOS0496,Health First Rajkot Multi Speciality Hospital,Gujarat,Rajkot,19.370231,88.288824,Private,352,68,Yes,2.7,No
+HOS0497,Lotus Ajmer Medical Centre,Rajasthan,Ajmer,16.185464,78.109848,Private,540,23,Yes,4.3,No
+HOS0498,Fortis Ahmedabad Multi Speciality Hospital,Gujarat,Ahmedabad,23.449621,79.623678,Private,269,80,Yes,3.7,Yes
+HOS0499,MediPlus Prayagraj Health Center,Uttar Pradesh,Prayagraj,24.449125,77.923824,Private,197,94,Yes,4.3,No
+HOS0500,National Jaipur Care Hospital,Rajasthan,Jaipur,21.424345,84.097543,Private,200,49,No,2.7,No
