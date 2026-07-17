@@ -64,89 +64,187 @@ AyushEquity AI addresses both challenges using Artificial Intelligence.
 
 ---
 
-# 🛠 Tech Stack
+🚀 Technology Stack
+💻 Programming Language
+Python 3.11
+🤖 Artificial Intelligence & Machine Learning
+Scikit-learn
+XGBoost
+Pandas
+NumPy
+Joblib
 
-## Programming
-- Python
+Algorithms Used:
 
-## Machine Learning
-- Scikit-learn
-- Random Forest
-- XGBoost
-- Isolation Forest
+Logistic Regression
+Decision Tree
+Random Forest
+XGBoost
+Label Encoding
+Feature Engineering
+🌐 Backend Development
+FastAPI
+Uvicorn
+Pydantic
+SQLAlchemy (optional)
+🎨 Frontend
+Streamlit
+HTML (optional)
+CSS (optional)
+Plotly
+Matplotlib
+🗄 Database
+SQLite3
+🔗 Blockchain
+SHA-256 Hashing (hashlib)
+Custom Blockchain Implementation
+Blockchain Transaction Ledger
+Smart Contract Simulation (Python)
+🤖 AI Agents (Agentic AI)
+Inclusion Agent
+Fraud Detection Agent
+Blockchain Agent
+Analytics Agent
+Notification Agent
+📊 Data Analytics
+Pandas
+Plotly
+Matplotlib
 
-## Backend
-- FastAPI
+Charts:
 
-## Frontend
-- Streamlit
-
-## Database
-- SQLite
-- SQLAlchemy
-
-## Data Processing
-- Pandas
-- NumPy
-
-## Data Generation
-- Faker
-
-## Visualization
-- Plotly
-- Matplotlib
-
+Bar Charts
+Pie Charts
+Line Charts
+Donut Charts
+Heatmaps
+KPI Cards
+📍 GIS & Mapping
+Folium
+Streamlit-Folium
+🧪 Testing
+Pytest
+📄 Reports
+JSON
+CSV
+Markdown
+PDF
+🛠 Development Tools
+VS Code
+Git
+GitHub
+Swagger UI
 ---
 
 # 📂 Project Structure
 
-```
-
-AyushEquityAI/
+AyushEquity-AI/
 │
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   ├── beneficiary_data/
-│   ├── claims_data/
-│   └── hospital_data/
+├── app/
 │
-├── database/
-│   ├── db_setup.py
-│   └── models.py
+│   ├── backend/
+│   │   ├── api.py
+│   │   ├── schemas.py
+│   │   ├── routes.py
+│   │   ├── database_routes.py
+│   │   ├── utils.py
+│   │   ├── config.py
+│   │   └── auth.py
+│   │
+│   ├── frontend/
+│   │   ├── officer_dashboard.py
+│   │   ├── citizen_portal.py
+│   │   ├── beneficiary_page.py
+│   │   ├── fraud_page.py
+│   │   ├── analytics.py
+│   │   ├── maps.py
+│   │   ├── reports.py
+│   │   ├── settings.py
+│   │   └── assets/
+│   │       ├── logo.png
+│   │       ├── style.css
+│   │       └── background.png
+│   │
+│   ├── agents/
+│   │   ├── inclusion_agent.py
+│   │   ├── fraud_agent.py
+│   │   ├── blockchain_agent.py
+│   │   ├── analytics_agent.py
+│   │   ├── notification_agent.py
+│   │   └── agent_roles.json
+│   │
+│   ├── ml/
+│   │   ├── train_inclusion.py
+│   │   ├── evaluate_model.py
+│   │   ├── predict.py
+│   │   ├── train_fraud.py
+│   │   ├── evaluate_fraud.py
+│   │   ├── predict_fraud.py
+│   │   ├── explain_fraud.py
+│   │   ├── fraud_preprocess.py
+│   │   ├── validate_data.py
+│   │   └── feature_engineering.py
+│   │
+│   ├── models/
+│   │   ├── inclusion_model.pkl
+│   │   ├── fraud_model.pkl
+│   │   ├── label_encoders.pkl
+│   │   └── fraud_label_encoders.pkl
+│   │
+│   ├── blockchain/
+│   │   ├── blockchain.py
+│   │   ├── smart_contract.py
+│   │   ├── transaction.py
+│   │   ├── verifier.py
+│   │   └── hash_utils.py
+│   │
+│   ├── database/
+│   │   ├── database.db
+│   │   ├── db_setup.py
+│   │   ├── db_utils.py
+│   │   └── seed_database.py
+│   │
+│   ├── data/
+│   │   ├── beneficiaries.csv
+│   │   ├── hospitals.csv
+│   │   ├── claims.csv
+│   │   ├── blockchain_transactions.csv
+│   │   ├── officers.csv
+│   │   ├── applications.csv
+│   │   ├── processed/
+│   │   └── raw/
+│   │
+│   ├── reports/
+│   │   ├── Inclusion_Model_Report.md
+│   │   ├── Fraud_Model_Report.md
+│   │   ├── API_Documentation.md
+│   │   ├── model_metrics.json
+│   │   ├── fraud_metrics.json
+│   │   ├── dashboard_report.pdf
+│   │   └── analytics_report.pdf
+│   │
+│   ├── notebook/
+│   │   ├── EDA.ipynb
+│   │   ├── Inclusion_Model.ipynb
+│   │   └── Fraud_Model.ipynb
+│   │
+│   └── utils/
+│       ├── helper.py
+│       ├── logger.py
+│       ├── constants.py
+│       └── encryption.py
 │
-├── models/
-│
-├── scripts/
-│   ├── generate_data.py
-│   ├── preprocess.py
-│   ├── train_inclusion_model.py
-│   ├── train_fraud_model.py
-│   └── evaluate_models.py
-│
-├── backend/
-│   ├── api.py
-│   ├── routes.py
-│   ├── schemas.py
-│   └── utils.py
-│
-├── frontend/
-│   ├── citizen_portal.py
-│   ├── officer_dashboard.py
-│   ├── hospital_dashboard.py
-│   └── analytics.py
-│
-├── notebooks/
-├── reports/
 ├── tests/
+│   ├── test_api.py
+│   ├── test_model.py
+│   ├── test_database.py
+│   └── test_agents.py
 │
 ├── requirements.txt
 ├── README.md
-└── .gitignore
-
-````
-
----
+├── .gitignore
+├── LICENSE
+└── main.py
 
 # 🚀 Installation
 
