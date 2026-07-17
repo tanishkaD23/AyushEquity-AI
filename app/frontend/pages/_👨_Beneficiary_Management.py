@@ -5,8 +5,8 @@ import streamlit as st
 import pandas as pd
 import sqlite3
 
-def show():
- st.title("👨 Beneficiary Management")
+
+st.title("👨 Beneficiary Management")
 
 # ==========================
 # DATABASE CONNECTION

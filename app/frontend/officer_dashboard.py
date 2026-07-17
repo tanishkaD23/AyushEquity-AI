@@ -2,6 +2,117 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 from components import *
 from styles import load_css
+import streamlit as st
+import sqlite3
+import pandas as pd
+
+st.title("🏥 AyushEquity AI Officer Dashboard")
+
+conn = sqlite3.connect("app/database/database.db")
+
+beneficiaries = pd.read_sql(
+    "SELECT * FROM Beneficiaries",
+    conn
+)
+
+hospitals = pd.read_sql(
+    "SELECT * FROM Hospitals",
+    conn
+)
+
+claims = pd.read_sql(
+    "SELECT * FROM Claims",
+    conn
+)
+fraud = len(
+    claims[
+        claims["Fraud_Label"]=="Yes"
+    ]
+)
+
+col1,col2,col3,col4 = st.columns(4)
+
+col1.metric(
+    "👨 Beneficiaries",
+    len(beneficiaries)
+)
+
+col2.metric(
+    "🏥 Hospitals",
+    len(hospitals)
+)
+
+col3.metric(
+    "💰 Claims",
+    len(claims)
+)
+
+col4.metric(
+    "🚨 Fraud",
+    fraud
+)
+st.success(
+    "Welcome Officer 👋"
+)
+
+st.info(
+    "Use the left sidebar to navigate through the system."
+)
+st.subheader("🚀 Quick Access")
+
+c1,c2,c3 = st.columns(3)
+
+with c1:
+
+    st.button("👨 Beneficiaries")
+
+    st.button("🏥 Hospitals")
+
+with c2:
+
+    st.button("💰 Claims")
+
+    st.button("🚨 Fraud")
+
+with c3:
+
+    st.button("📊 Analytics")
+
+    st.button("📄 Reports")
+    st.subheader("🕒 Recent Claims")
+
+st.dataframe(
+
+    claims.head(10),
+
+    use_container_width=True
+
+)
+st.subheader("🚨 Recent Fraud Cases")
+
+fraud_df = claims[
+    claims["Fraud_Label"]=="Yes"
+]
+
+st.dataframe(
+
+    fraud_df.head(10),
+
+    use_container_width=True
+
+)
+st.subheader("🟢 System Health")
+
+c1,c2,c3 = st.columns(3)
+
+c1.success("Database Connected")
+
+c2.success("FastAPI Running")
+
+c3.success("AI Models Loaded")
+
+
+conn.close()
 
 dashboard_header()
 

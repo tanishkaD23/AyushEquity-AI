@@ -136,6 +136,7 @@ REFERENCES Beneficiaries(Beneficiary_ID),
 
 FOREIGN KEY(Hospital_ID)
 REFERENCES Hospitals(Hospital_ID)
+                Status TEXT DEFAULT 'Pending'
 
 )
 """)

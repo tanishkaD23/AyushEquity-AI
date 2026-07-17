@@ -12,13 +12,13 @@ from reportlab.platypus import (
     Paragraph
 )
 
-st.set_page_config(
-    page_title="Reports",
-    page_icon="📄",
-    layout="wide"
-)
+import streamlit as st
 
-st.title("📄 Reports Center")
+
+
+st.title("📄 Reports")
+
+    # rest of code
 
 conn = sqlite3.connect("app/database/database.db")
 

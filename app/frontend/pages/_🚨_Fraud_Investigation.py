@@ -9,9 +9,9 @@ import plotly.express as px
 
 import streamlit as st
 
-def show():
 
-    st.title("🚨 Fraud Investigation")
+
+st.title("🚨 Fraud Investigation")
 
     # rest of code
 # ==========================================
